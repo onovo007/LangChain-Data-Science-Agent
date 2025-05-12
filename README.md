@@ -52,7 +52,7 @@ Contributions to enhance the agent capabilities are welcome. Feel free to submit
 
 Author
 Dr. Amobi Onovo
-LinkedIn Profile
+[LinkedIn Profile](https://www.linkedin.com/in/amobi-onovo-ph-d-global-health-pgd-data-sci-mph-epi-135a1025/)
 
 License
 This project is open source under the MIT license.
